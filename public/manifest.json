@@ -1,0 +1,15 @@
+{
+    "name": "Bola Mania",
+    "short_name": "My BOM",
+    "description": "Aplikasi Bola Mania",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "gcm_sender_id": "20465488166",
+    "icons": [{
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
